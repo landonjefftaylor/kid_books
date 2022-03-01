@@ -1,1 +1,89 @@
-# kid_books
+# Developing a Healthy Relationship With...
+
+- ## **Thinking**
+  - Thinking attitudes
+  - Thinking hats
+  - Brain games
+- ## **Food and Drink**
+  - Basics of Nutrition
+  - A balanced diet
+  - Cooking
+  - Grocery Shopping
+  - Dietary Restrictions (how to accommodate)
+  - Healthier responses to stress
+- ## **Money**
+  - Currency basics
+  - Using virtual money 
+  - Financial terms
+  - Tax basics
+- ## **History**
+  - Revisit critical thinking skills
+  - History we like to talk about
+  - History we don't like to talk about
+  - How to research history
+- ## **Your Neighbor**
+  - Principles for any social situation
+  - Principles for special situations:
+    - At home
+    - At school
+    - In a store or restaurant
+    - Public transportation
+    - Theaters
+  - Conflict resolution
+  - Crisis management
+- ## **Media and Informatica**
+  - Safe computer use
+  - Finding reliable information
+  - Reacting to negative information
+  - Good media consumption habits
+    - Television and Movies
+    - Radio and Podcasts
+    - Music
+    - Social media
+    - News
+    - Live entertainment
+  - Interacting appropriately with news sources
+  - Reading skills for fun and for information
+- ## **Sex and Sexuality**
+  - Gender and Sex
+  - Gender norms
+  - (age appropriate) Reproduction
+  - Chastity / Abstinence
+  - Contraception
+  - Healthy intimate relationships
+- ## **Religion and Spirituality**
+  - Basic overview of the beliefs of major religions
+  - A relationship with Diety
+  - Spiritual well-being
+    - Meditation, prayer, time outdoors, etc.
+  - Respecting differences
+  - Agency
+- ## **The Law**
+  - Overview of some basic crimes and torts
+    - Don't do them
+    - What to do if someone does them to you
+  - Important rights you have
+  - Substances and substance abuse
+- ## **Mental Health**
+  - Taking breaks
+  - Mindfulness
+  - Coping skills for:
+    - Grief
+    - Stress
+    - Shame
+  - Actual self-care
+  - Finding resources
+  - Helping a friend
+    - Listening skills
+    - Crisis management skills
+- ## **New Skills**
+  - Researching a skill or hobby
+  - Starting to learn
+  - Finding a mentor/teacher
+  - Practicing well
+  - Putting the skill to use
+  - Goals and deadlines
+- ## **Working**
+  - Value of working hard
+  - Optimizing your efforts
+- ## **Politics**
