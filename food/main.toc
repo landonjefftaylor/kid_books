@@ -1,0 +1,7 @@
+\contentsline {part}{I\hspace {1em}Nutrition}{1}{}%
+\contentsline {chapter}{\numberline {1}What is Nutrition?}{2}{}%
+\contentsline {part}{II\hspace {1em}A Balanced Diet}{3}{}%
+\contentsline {part}{III\hspace {1em}Grocery Shopping}{5}{}%
+\contentsline {part}{IV\hspace {1em}Cooking}{6}{}%
+\contentsline {part}{V\hspace {1em}Dietary Restrictions}{8}{}%
+\contentsline {part}{VI\hspace {1em}Dealing with Stress}{10}{}%

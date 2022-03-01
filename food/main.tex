@@ -1,0 +1,98 @@
+\documentclass[14pt,letterpaper,oneside]{book} % 10pt font size, A4 paper and two-sided margins
+
+\usepackage{extsizes} % enable 9pt font size
+
+\usepackage[top=2cm,bottom=2cm,left=2cm,right=2cm,columnsep=20pt]{geometry} % Document margins and spacings
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\usepackage{tgpagella} % Use the Palatino font
+
+% Get rid of fancy headers, bottom center page numbers
+\pagestyle{plain}
+
+% Chapter Title Formatting
+\usepackage{titlesec}
+
+\titleformat{\chapter}[block]
+{\normalfont\huge\bfseries}{\thechapter.}{1em}{\huge}
+\titlespacing*{\chapter}{0pt}{-19pt}{0pt}
+
+% Line spacing
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+% Boxes
+%\newcommand{\ibox}[1]{\fbox{\parbox{\textwidth}{~\\ #1 \\}}}
+% https://www.overleaf.com/latex/examples/simple-stylish-box-design/stzmmcshxdng
+\usepackage[many]{tcolorbox}
+\tcbset{
+%	sharp corners,
+	colback = white,
+	before skip = 0.5cm,    % add extra space before the box
+	after skip = 1cm      % add extra space after the box
+}
+\newtcolorbox{infobox}{
+	sharpish corners, % better drop shadow
+	boxrule = 0pt,
+	toprule = 4.5pt, % top rule weight
+	enhanced,
+	fuzzy shadow = {0pt}{-2pt}{-0.5pt}{0.5pt}{black!35}
+}
+\newtcolorbox{notebox}{
+%	fontupper = \bf\color{main}, % font color
+	boxrule = 1.5pt,
+	rounded corners,
+	arc = 5pt   % corners roundness
+}
+\newcommand{\ibox}[1]{\begin{infobox}#1 \end{infobox}}
+\newcommand{\notebook}[1]{\begin{notebox}#1 \end{notebox}}
+
+
+\usepackage{tocloft}
+\setlength\cftparskip{-2pt}
+\setlength\cftbeforechapskip{0pt}
+\setlength\cftbeforepartskip{0.5em}
+\renewcommand{\cftchapfont}{\large}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftsecdotsep}}
+\renewcommand{\cftpartleader}{\cftdotfill{\cftsecdotsep}}%
+
+
+\title{Developing a Healthy Relationship with Food}
+\author{Landon Taylor}
+
+\date{}
+
+% Materials sourced from myplate.gov
+
+\begin{document}
+	
+	\frontmatter
+	
+	\maketitle
+	\tableofcontents
+	
+	\mainmatter
+	
+	\part{Nutrition}
+	\include{nutrition}
+	
+	\part{A Balanced Diet}
+	\include{balanced}
+	
+	\part{Grocery Shopping}
+	\include{shopping}
+	
+	\part{Cooking}
+	\include{cooking}
+	
+	\part{Dietary Restrictions}
+	\include{restrictions}
+	
+	\part{Dealing with Stress}
+	\include{stress}
+	
+	
+\end{document}

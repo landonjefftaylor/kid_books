@@ -16,6 +16,8 @@
   - Using virtual money 
   - Financial terms
   - Tax basics
+  - Money as a tool
+  - Safety nets and support systems
 - ## **History**
   - Revisit critical thinking skills
   - History we like to talk about
@@ -87,3 +89,13 @@
   - Value of working hard
   - Optimizing your efforts
 - ## **Politics**
+  - Parties vs. Individuals
+  - Locality of governments
+  - Value of participation in politics
+  - How to learn about a candidate
+  - How and why to vote
+  - How to change policy
+  - How to discuss politics
+    - When you agree
+    - When you disagree
+    - When you don't know
