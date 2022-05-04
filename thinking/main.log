@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.22)  20 MAR 2022 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.22)  24 APR 2022 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,28 +872,27 @@ File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\lando\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryfadings.code.tex
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))) (main.aux (nutrition.aux) (balanced.aux) (shopping.aux) (cooking.aux) (res
-trictions.aux) (stress.aux))
+)))) (main.aux (part/approaching.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -929,7 +928,7 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 8.
+Package hyperref Info: Link coloring OFF on input line 10.
 (C:\Users\lando\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -942,9 +941,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 8.
-LaTeX Info: Redefining \pageref on input line 8.
-LaTeX Info: Redefining \nameref on input line 8.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1109,79 +1108,389 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
 
 ]
-\openout2 = `nutrition.aux'.
+\openout2 = `part/approaching.aux'.
 
- (nutrition.tex
+ (part/approaching.tex
 Chapter 1.
-) [2
+[2
 
 
-] [3
+] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 1
+02.
+(C:\Users\lando\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
+File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
+)
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[5]
+Chapter 2.
+[6
+
+] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+[9]
+Chapter 3.
+[10
 
 ]
-\openout2 = `balanced.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 
- (balanced.tex) [4
-
-] [5
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+[14] [15] [16] [17] [18] [19]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--402
+
+ []
+
+[20
+
+] [21]
+Chapter 5.
+[22
+
+] [23]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+[24
 
 ]
-\openout2 = `shopping.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 
- (shopping.tex) [6
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+[25]
+Chapter 7.
+[26
+
+] [27]
+Chapter 8.
+[28
 
 ]
-\openout2 = `cooking.aux'.
+Chapter 9.
 
- (cooking.tex) [7
+Overfull \hbox (19.38435pt too wide) in paragraph at lines 521--521
+|\T1/qpl/b/n/29.86 9. Al-ter-na-tives, Pos-si-bil-i-ties, Choices| 
+ []
 
-] [8
-
-
-
-]
-\openout2 = `restrictions.aux'.
-
-
-(restrictions.tex) [9
-
-] [10
-
-
+[29
 
 ]
-\openout2 = `stress.aux'.
+Chapter 10.
+[30
 
- (stress.tex) [11
+]
+Chapter 11.
+[31
 
-] (main.aux (nutrition.aux)
-(balanced.aux) (shopping.aux) (cooking.aux) (restrictions.aux) (stress.aux))
+] [32]
+Chapter 12.
+[33
+
+] [34]
+Chapter 13.
+
+Overfull \hbox (9.61998pt too wide) in paragraph at lines 617--618
+\T1/qpl/m/n/14.4 (cons), and un-known fac-tors. An in-cred-i-bly sim-ple and ef
+-fec-tive decision-making
+ []
+
+[35
+
+]
+Chapter 14.
+[36
+
+]
+Chapter 15.
+[37
+
+]
+Chapter 16.
+) [38
+
+] (main.aux (part/approaching.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AC77CBB4E7A7322F0BA6B92DFB50EE02;942.
+(rerunfilecheck)             Checksum: DBA7B745DD8731B4FF4EEB3047E326FA;2339.
  ) 
 Here is how much of TeX's memory you used:
- 26027 strings out of 478584
- 536628 string characters out of 9594400
- 820848 words of memory out of 3000000
- 43710 multiletter control sequences out of 15000+600000
- 508344 words of font info for 54 fonts, out of 8000000 for 9000
+ 26216 strings out of 478584
+ 538786 string characters out of 9594400
+ 937692 words of memory out of 3000000
+ 43823 multiletter control sequences out of 15000+600000
+ 508727 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,6n,107p,446b,361s stack positions out of 5000i,500n,10000p,200000b,9999999s
-{C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.e
-nc}<C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qp
-lb.pfb><C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
-e/qplr.pfb><C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
--gyre/qplri.pfb>
-Output written on main.pdf (17 pages, 175502 bytes).
+ 104i,7n,107p,641b,2161s stack positions out of 5000i,500n,10000p,200000b,9999999s
+{C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.
+enc}{C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec
+.enc}<C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/
+qplb.pfb><C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-g
+yre/qplr.pfb><C:/Users/lando/AppData/Local/Programs/MiKTeX/fonts/type1/public/t
+ex-gyre/qplri.pfb>
+Output written on main.pdf (44 pages, 284606 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

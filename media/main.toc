@@ -1,0 +1,6 @@
+\contentsline {part}{I\hspace {1em}Internet Safety}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Internet Rules}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}The Need for Internet Safety}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Privacy}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Communication}{6}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Time Limits}{7}{chapter.5}%

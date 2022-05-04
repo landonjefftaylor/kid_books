@@ -1,0 +1,32 @@
+\contentsline {part}{I\hspace {1em}Jobs and Careers}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Jobs}{2}{chapter.1}%
+\contentsline {paragraph}{Benefits:}{2}{paragraph*.2}%
+\contentsline {paragraph}{Payment Conditions:}{2}{paragraph*.3}%
+\contentsline {paragraph}{Scheduling Conditions:}{2}{paragraph*.4}%
+\contentsline {paragraph}{Requirements:}{2}{paragraph*.5}%
+\contentsline {paragraph}{Benefits:}{2}{paragraph*.6}%
+\contentsline {paragraph}{Payment Conditions:}{2}{paragraph*.7}%
+\contentsline {paragraph}{Scheduling Conditions:}{2}{paragraph*.8}%
+\contentsline {paragraph}{Requirements:}{2}{paragraph*.9}%
+\contentsline {paragraph}{Benefits:}{2}{paragraph*.10}%
+\contentsline {paragraph}{Payment Conditions:}{2}{paragraph*.11}%
+\contentsline {paragraph}{Scheduling Conditions:}{2}{paragraph*.12}%
+\contentsline {paragraph}{Requirements:}{2}{paragraph*.13}%
+\contentsline {chapter}{\numberline {2}Careers}{3}{chapter.2}%
+\contentsline {paragraph}{Benefits:}{3}{paragraph*.14}%
+\contentsline {paragraph}{Payment Conditions:}{3}{paragraph*.15}%
+\contentsline {paragraph}{Scheduling Conditions:}{3}{paragraph*.16}%
+\contentsline {paragraph}{Requirements:}{3}{paragraph*.17}%
+\contentsline {paragraph}{Benefits:}{3}{paragraph*.18}%
+\contentsline {paragraph}{Payment Conditions:}{3}{paragraph*.19}%
+\contentsline {paragraph}{Scheduling Conditions:}{3}{paragraph*.20}%
+\contentsline {paragraph}{Requirements:}{3}{paragraph*.21}%
+\contentsline {paragraph}{Benefits:}{3}{paragraph*.22}%
+\contentsline {paragraph}{Payment Conditions:}{3}{paragraph*.23}%
+\contentsline {paragraph}{Scheduling Conditions:}{3}{paragraph*.24}%
+\contentsline {paragraph}{Requirements:}{4}{paragraph*.25}%
+\contentsline {part}{II\hspace {1em}Earning Money}{5}{part.2}%
+\contentsline {part}{III\hspace {1em}Grocery Shopping}{6}{part.3}%
+\contentsline {part}{IV\hspace {1em}Cooking}{7}{part.4}%
+\contentsline {part}{V\hspace {1em}Dietary Restrictions}{8}{part.5}%
+\contentsline {part}{VI\hspace {1em}Dealing with Stress}{9}{part.6}%

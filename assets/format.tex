@@ -1,0 +1,148 @@
+% Get rid of fancy headers, bottom center page numbers
+\pagestyle{plain}
+
+% Line spacing
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+
+% Title formatting
+\titleformat{\chapter}[block]
+{\normalfont\huge\bfseries}{\thechapter.}{1em}{\huge}
+\titlespacing*{\chapter}{0pt}{-19pt}{0pt}
+
+% Section Title spacing
+\titlespacing*{\section}{0em}{1.25em}{0em}
+
+% Paragraph Title spacing
+\titlespacing*{\paragraph}{0em}{-0.5em}{0.7em}
+
+% Author formatting
+\titleformat{\author}[block]
+{\normalfont\huge\bfseries}{\theauthor}{1em}{\huge}
+
+\pretitle{
+	\vrule height 2.5pt width \textwidth
+	\begin{center}
+		\Huge\bfseries
+	}%, make the fonts bigger, make the title (only) bold
+\posttitle{%
+	\end{center}%
+	\noindent\vrule height 2.5pt width \textwidth
+	\vskip .75em plus .25em minus .25em% increase the vertical spacing a bit, make this particular glue stretchier
+}
+
+% Stylish Boxes
+% https://www.overleaf.com/latex/examples/simple-stylish-box-design/stzmmcshxdng
+% https://mirrors.mit.edu/CTAN/macros/latex/contrib/tcolorbox/tcolorbox.pdf
+\tcbset{
+	colback = white,
+	center,
+	before skip = 1cm,    % add extra space before the box
+	after skip = 1cm      % add extra space after the box
+}
+
+\newtcolorbox{infobox}{
+	sharpish corners, % better drop shadow
+	boxrule = 0pt,
+	toprule = 4.5pt, % top rule weight
+	enhanced,
+	fuzzy shadow = {0pt}{-2pt}{-0.5pt}{0.5pt}{black!55},
+	top = 1em,
+	bottom = 1em
+}
+\newcommand{\ibox}[1]{\begin{infobox}#1 \end{infobox}}
+
+\newtcolorbox{titlebox}[1]{
+	fonttitle=\bfseries\large,
+	title=#1,
+	sharpish corners, % better drop shadow
+	boxrule = 0pt,
+	toprule = 4.5pt, % top rule weight
+	enhanced,
+	fuzzy shadow = {0pt}{-2pt}{-0.5pt}{0.5pt}{black!55},
+	top = 1em,
+	bottom=1em,
+	toptitle = .2em,
+	bottomtitle = .2em
+}
+\newcommand{\tbox}[2]{{\begin{titlebox}{#1} #2 \end{titlebox}}}
+\newcommand{\beforeyoubegin}[1]{{\begin{titlebox}{Before You Begin} #1 \end{titlebox}}}
+\newcommand{\activity}[1]{{\begin{titlebox}{Try This Activity} #1 \end{titlebox}}}
+\newcommand{\challenge}[1]{{\begin{titlebox}{Challenge} #1 \end{titlebox}}}
+\newcommand{\funfact}[1]{{\begin{titlebox}{Fun Fact} #1 \end{titlebox}}}
+
+\usetikzlibrary{decorations.pathmorphing}
+\usetikzlibrary{shadows}
+\definecolor{paper}{RGB}{239,227,157}
+\newtcolorbox{tornpage}{%
+	enhanced jigsaw, breakable, % allow page breaks
+	frame hidden, % hide the default frame
+	left=.7in,
+	bottom=1.5em,
+	top=1.5em,
+	right=.5in,
+	underlay={%
+		\draw [
+		fill=white, % fill paper
+		draw=gray!90, % boundary colour
+		decorate, % decoration
+		decoration={random steps,segment length=2pt,amplitude=1pt},
+		drop shadow, % shadow
+		]
+		% top line
+		(frame.north west)--(frame.north east)--
+		% right line
+		(frame.north east)--(frame.south east)--
+		% bottom line
+		(frame.south east)--(frame.south west)--
+		% left line
+		(frame.south west)--(frame.north west);
+	},
+	overlay={%
+		\begin{tcbclipinterior}
+			%\shade[inner color=green!80!yellow,outer color=yellow!10!white]
+			%(interior.north west) circle (2cm);
+			\draw[help lines, yshift=-8pt, ystep=\baselineskip, xstep=\linewidth, gray!25 
+			](frame.north east) grid (frame.south west);
+			\draw[help lines, gray!80] ([xshift=.5in]interior.north west)--
+			([xshift=.5in]interior.south west);
+			\draw[help lines, gray!60] ([xshift=-.3in]interior.north east)--
+			([xshift=-.3in]interior.south east);
+	\end{tcbclipinterior}},
+	% paragraph skips obeyed within tcolorbox
+	parbox=false,
+}
+
+\newcommand{\notebook}[1]{\begin{tornpage} #1 \end{tornpage}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% Pretty Table of Contents
+\setlength\cftparskip{-2pt}
+\setlength\cftbeforechapskip{0pt}
+\setlength\cftbeforepartskip{0.5em}
+\renewcommand{\cftchapfont}{\large}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftsecdotsep}}
+\renewcommand{\cftpartleader}{\cftdotfill{\cftsecdotsep}}
+
+
+% Consistent author and date
+\author{Slandefani Taylor}
+\date{}
+\newcommand{\relationshipwith}[1]{\title{Developing a Healthy Relationship with #1}}
